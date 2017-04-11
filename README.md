@@ -23,11 +23,11 @@ Use exact versions if your example if not working. Maybe somethings were changed
 ### 02 With React
 Continuation of the Primitive folder with adding react. These examples also from "**Getting Started with Redux**". And they also have jsbin.com url. If urls not working consult above.
 
-### 03 Restructured
+### 03 Structured
 This folder contains first form of "**Building React Applications with Idiomatic Redux**" course content. You can also navigate to [ramesaliyev/todos](https://github.com/ramesaliyev/todos) repo (*forked from gaearon/todos*) to see step-by-step evolution (follow evolution via well-named branches) of this structured version of todo app.
 
 ### 04 Enhanced
-Continuation of the Restructured folder by watching "**Building React Applications with Idiomatic Redux**" course. This folder contains last shape of example. Consult above if you want to check step-by-step evolution.
+Continuation of the Structured folder by watching "**Building React Applications with Idiomatic Redux**" course. This folder contains last shape of example. Consult above if you want to check step-by-step evolution.
 
 ---
 Note: Some of examples contains Turkish inline descriptions in it. And it gonna stay that way for Turkish users. 
